@@ -1,0 +1,66 @@
+.card{
+    width: 76%;
+    height: 291px;
+    margin: auto;
+    padding: 0;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+
+.coordinates{
+    margin-left: 630px;
+    font-size: 1.25rem;
+}
+
+.title{
+  margin-left: 630px;
+  padding: 0px;
+  font-size: 2.0rem;
+
+}
+
+.header{
+  font-size: 2.0rem;
+  margin-left: 134px;
+  padding: 25px;
+}
+
+title:not(:first-child), .mat-card-subtitle:not(:first-child) {
+  margin-top: 14px;
+}
+
+
+.subTitle {
+  color: white;
+}
+
+.image {
+  max-height: 291px;
+  min-height: 250px;
+  width: 496px;
+  margin-left: 10px;
+  margin-bottom: -187px;
+}
+
+.button {
+  background-color: #3cbfaf;
+  color: black;
+  height: 36px;
+  width: 330px;
+}
+
+.color{
+    background-color: black;
+}
+
+
+.mat-card-content>:last-child:not(.mat-card-footer) {
+  margin-bottom: 0;
+  margin-top: 14px;
+}
+
+.mat-card-content {
+  display: block;
+  margin-bottom: -46px;
+}
