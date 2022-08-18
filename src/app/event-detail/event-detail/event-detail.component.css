@@ -1,0 +1,122 @@
+.container {
+  height: auto;
+  width: 80%;
+  background-color: white;
+  margin: auto;
+}
+
+.title {
+  padding: 0px;
+  font-size: 3rem;
+  margin-top: 40px;
+}
+
+.picture {
+  max-height: 291px;
+  min-height: 250px;
+  width: 496px;
+  margin-top: 26px;
+}
+
+.location {
+  margin-top: 24px;
+  font-size: 1.25rem;
+}
+
+.colour {
+  color: #6aebbd;
+  font-size: 1.25rem;
+}
+
+.card {
+  width: 543px;
+  height: 290px;
+  margin-top: -296px;
+  margin-left: auto;
+  /* background-color: white; */
+}
+
+.mat-list-item {
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.demo-table {
+  width: 100%;
+  margin-top: 47px;
+}
+
+.demo-button-container {
+  padding-bottom: 16px;
+}
+
+.demo-button + .demo-button {
+  margin-left: 8px;
+}
+
+th.mat-header-cell {
+  padding-left: 24px;
+  font-weight: bold;
+  font-size: large;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+tr.mat-row {
+  height: 60px;
+  text-align: center;
+}
+
+.count {
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.mat-icon {
+  height: 24px;
+  width: 25px;
+  color: #6aebbe;
+}
+
+.mat-form-field {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  margin-top: 58px;
+  width: 38%;
+}
+
+.mat-stroked-button {
+  line-height: 22px;
+  background-color: #6aebbe;
+  border-radius: inherit;
+  margin-left: 15px !important;
+  font-size: 17px;
+  font-weight: 400;
+  padding: 0.75em 0.75em 0.5em 0.75em;
+}
+
+.ticket {
+  font-size: large;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.price {
+  margin-left: 196px;
+}
+.center {
+  color: red;
+  margin-top: 62px;
+  margin-left: 357px;
+}
+
+.mat-flat-button {
+  background-color: #6aebbe;
+  border-radius: initial;
+  width: 100%;
+  margin-top: 13px;
+  margin-bottom: 52px;
+}
